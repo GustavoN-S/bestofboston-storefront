@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Boston Skyline Magnet">
+  <title>Boston Skyline Magnet</title>
+  <rect width="800" height="1000" fill="#F2ECE0"/>
+  <rect x="24.5" y="24.5" width="751" height="951" fill="none" stroke="#CBBEA4" stroke-width="1"/>
+  <g stroke="#CBBEA4" stroke-width="1">
+    <path d="M24.5 64 h34 M24.5 936 h34 M741.5 64 h34 M741.5 936 h34" opacity=".85"/>
+  </g>
+  <g transform="translate(400,460) scale(1.9)">
+    <g>
+    <rect x="-172" y="-118" width="344" height="236" rx="10" fill="#17344F"/>
+    <rect x="-156" y="-102" width="312" height="204" rx="6" fill="#DCD2BD"/>
+    <rect x="-156" y="-102" width="312" height="204" rx="6" fill="none" stroke="#A98A52" stroke-width="3"/>
+    <path d="M-118.0 92 v-25.959999999999997 h14.16 v-16.52 h16.52 v42.48 M-87.32 92 v-51.919999999999995 h21.24 v51.919999999999995 M-66.08 92 v-33.04 h16.52 v33.04 M-49.559999999999995 92 v-70.8 h7.08 v-21.24 h11.799999999999999 v21.24 h7.08 v70.8 M-23.599999999999998 92 v-40.12 h18.88 v40.12 M-4.72 92 v-61.36 l11.799999999999999 -18.88 l11.799999999999999 18.88 v61.36 M18.88 92 v-30.68 h21.24 v30.68 M40.12 92 v-47.199999999999996 h14.16 v47.199999999999996 M54.279999999999994 92 v-21.24 h23.599999999999998 v21.24 M77.88 92 v-37.76 h16.52 v37.76 M94.39999999999999 92 v-18.88 h23.599999999999998 v18.88 Z" fill="#17344F" opacity="1.0"/>
+    <text x="0" y="-44" text-anchor="middle" font-family="'Libre Caslon Display','Libre Caslon Text',Georgia,serif" font-size="44" letter-spacing="7" fill="#17344F">BOSTON</text>
+    <path d="M-96 -30 H96" stroke="#9C2B21" stroke-width="2" opacity=".8"/>
+    <text x="0" y="-12" text-anchor="middle" font-family="'Libre Caslon Display','Libre Caslon Text',Georgia,serif" font-size="13" letter-spacing="4.5" fill="#9C2B21">MASSACHUSETTS</text>
+  </g>
+  </g>
+  
+  <g font-family="Archivo, 'Helvetica Neue', Arial, sans-serif" font-size="17" letter-spacing="3.4" fill="#8C8372">
+    <text x="56" y="922">PLATE 11</text>
+    <text x="744" y="922" text-anchor="end">BEST OF BOSTON</text>
+  </g>
+  <path d="M56 890 H744" stroke="#CBBEA4" stroke-width="1"/>
+  <g transform="translate(682,838) scale(0.4)" fill="#CBBEA4" opacity="0.9">
+    <path d="M5 33C13 27 30 24 52 24.5c12 .3 21 1.5 26 3.5l1 9c-5 2.5-14 4-27 4C30 41 13 39 5 33Z"/>
+    <path d="M78 26c9 0 15 3 15 6.5S87 39 78 39Z"/>
+    <path d="M90 27c5-6 11-10 18-13M92 30c6-4 12-7 19-9" stroke="#CBBEA4" stroke-width="2.2"
+          fill="none" stroke-linecap="round"/>
+    <path d="M56 27 38 3 27 7l20 23Z"/>
+    <path d="M32 5 8 18" stroke="#CBBEA4" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M8 18 2 25" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <path d="M70 40l-3 12M58 41l-8 10" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Sacred Cod Canvas Tote">
+  <title>Sacred Cod Canvas Tote</title>
+  <rect width="800" height="1000" fill="#F2ECE0"/>
+  <rect x="24.5" y="24.5" width="751" height="951" fill="none" stroke="#CBBEA4" stroke-width="1"/>
+  <g stroke="#CBBEA4" stroke-width="1">
+    <path d="M24.5 64 h34 M24.5 936 h34 M741.5 64 h34 M741.5 936 h34" opacity=".85"/>
+  </g>
+  <g transform="translate(400,440) scale(1.9)">
+    <g>
+    <path d="M-150 -60 L150 -60 L164 152 C165 164 158 170 146 170 L-146 170
+             C-158 170 -165 164 -164 152 Z" fill="#EDE5D5"/>
+    <path d="M60 -60 L150 -60 L164 152 C165 164 158 170 146 170 L74 170 Z"
+          fill="#E7E1D4" opacity=".8"/>
+    <path d="M-150 -60 L150 -60 L152 -28 L-152 -28 Z" fill="#DCD2BD"/>
+    <path d="M-98 -62 C-98 -142 -34 -142 -34 -62" fill="none" stroke="#17344F"
+          stroke-width="15" stroke-linecap="round"/>
+    <path d="M34 -62 C34 -142 98 -142 98 -62" fill="none" stroke="#17344F"
+          stroke-width="15" stroke-linecap="round"/>
+    <g opacity="1.0"><path d="M-91.19999999999999 50 C-76.0 17.700000000000003 -26.599999999999998 4.400000000000006 26.599999999999998 13.899999999999999 C53.199999999999996 19.6 64.6 32.900000000000006 68.39999999999999 42.4 L95.0 23.400000000000002 L87.39999999999999 50 L95.0 76.6 L68.39999999999999 57.6 C62.699999999999996 69.0 45.599999999999994 82.3 15.2 86.1 C-34.199999999999996 91.8 -76.0 76.6 -91.19999999999999 50 Z" fill="#17344F"/><path d="M-30.4 10.100000000000001 l13.299999999999999 -20.9 l20.9 17.099999999999998 Z M-19.0 88.0 l9.5 19.0 l22.799999999999997 -13.299999999999999 Z" fill="#17344F"/><circle cx="-64.6" cy="42.4" r="5.319999999999999" fill="#F2ECE0"/></g>
+    <text x="0" y="128" text-anchor="middle" font-family="'Libre Caslon Display','Libre Caslon Text',Georgia,serif" font-size="25" letter-spacing="6" fill="#17344F">SACRED COD</text>
+  </g>
+  </g>
+  
+  <g font-family="Archivo, 'Helvetica Neue', Arial, sans-serif" font-size="17" letter-spacing="3.4" fill="#8C8372">
+    <text x="56" y="922">PLATE 07</text>
+    <text x="744" y="922" text-anchor="end">BEST OF BOSTON</text>
+  </g>
+  <path d="M56 890 H744" stroke="#CBBEA4" stroke-width="1"/>
+  <g transform="translate(682,838) scale(0.4)" fill="#CBBEA4" opacity="0.9">
+    <path d="M5 33C13 27 30 24 52 24.5c12 .3 21 1.5 26 3.5l1 9c-5 2.5-14 4-27 4C30 41 13 39 5 33Z"/>
+    <path d="M78 26c9 0 15 3 15 6.5S87 39 78 39Z"/>
+    <path d="M90 27c5-6 11-10 18-13M92 30c6-4 12-7 19-9" stroke="#CBBEA4" stroke-width="2.2"
+          fill="none" stroke-linecap="round"/>
+    <path d="M56 27 38 3 27 7l20 23Z"/>
+    <path d="M32 5 8 18" stroke="#CBBEA4" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M8 18 2 25" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <path d="M70 40l-3 12M58 41l-8 10" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

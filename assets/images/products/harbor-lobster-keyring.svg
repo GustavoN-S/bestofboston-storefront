@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Harbor Lobster Keyring">
+  <title>Harbor Lobster Keyring</title>
+  <rect width="800" height="1000" fill="#F2ECE0"/>
+  <rect x="24.5" y="24.5" width="751" height="951" fill="none" stroke="#CBBEA4" stroke-width="1"/>
+  <g stroke="#CBBEA4" stroke-width="1">
+    <path d="M24.5 64 h34 M24.5 936 h34 M741.5 64 h34 M741.5 936 h34" opacity=".85"/>
+  </g>
+  <g transform="translate(400,494) scale(1.65)">
+    <g>
+    <circle cx="0" cy="-172" r="46" fill="none" stroke="#96907F" stroke-width="12"/>
+    <circle cx="0" cy="-172" r="46" fill="none" stroke="#C6C2B8" stroke-width="4.5"/>
+    <path d="M0 -126 V-104" stroke="#96907F" stroke-width="8" stroke-linecap="round"/>
+    <rect x="-11" y="-108" width="22" height="20" rx="5" fill="#96907F"/>
+    <g transform="translate(0,34)">
+      <path d="M-16 -136 C-40 -168 -62 -184 -86 -192 M16 -136 C40 -168 62 -184 86 -192"
+            stroke="#9C2B21" stroke-width="5" fill="none" stroke-linecap="round"/>
+      <path d="M-34 -84 C-58 -96 -80 -96 -96 -84 M34 -84 C58 -96 80 -96 96 -84"
+            stroke="#9C2B21" stroke-width="13" fill="none" stroke-linecap="round"/>
+      <path d="M-96 -92 C-120 -104 -144 -96 -148 -76 L-112 -68 Z" fill="#9C2B21"/>
+      <path d="M-96 -62 C-120 -50 -144 -58 -148 -76 L-112 -74 Z" fill="#7C1F17"/>
+      <path d="M96 -92 C120 -104 144 -96 148 -76 L112 -68 Z" fill="#9C2B21"/>
+      <path d="M96 -62 C120 -50 144 -58 148 -76 L112 -74 Z" fill="#7C1F17"/>
+      <path d="M0 -142 C22 -142 40 -122 40 -94 C40 -72 30 -58 16 -52 L-16 -52
+               C-30 -58 -40 -72 -40 -94 C-40 -122 -22 -142 0 -142 Z" fill="#9C2B21"/>
+      <path d="M-38 -70 L-64 -56 M-35 -56 L-60 -38 M-30 -42 L-54 -22
+               M38 -70 L64 -56 M35 -56 L60 -38 M30 -42 L54 -22"
+            stroke="#9C2B21" stroke-width="4.5" fill="none" stroke-linecap="round"/>
+      <path d="M-32 -52 H32 L30 -20 H-30 Z" fill="#9C2B21"/>
+      <path d="M-30 -20 H30 L27 10 H-27 Z" fill="#7C1F17" opacity=".85"/>
+      <path d="M-27 10 H27 L23 40 H-23 Z" fill="#9C2B21"/>
+      <path d="M-23 40 H23 L18 66 H-18 Z" fill="#7C1F17" opacity=".85"/>
+      <path d="M-18 66 H18 L36 106 L13 92 L0 112 L-13 92 L-36 106 Z" fill="#9C2B21"/>
+      <circle cx="-14" cy="-118" r="5" fill="#F2ECE0"/>
+      <circle cx="14" cy="-118" r="5" fill="#F2ECE0"/>
+    </g>
+  </g>
+  </g>
+  
+  <g font-family="Archivo, 'Helvetica Neue', Arial, sans-serif" font-size="17" letter-spacing="3.4" fill="#8C8372">
+    <text x="56" y="922">PLATE 13</text>
+    <text x="744" y="922" text-anchor="end">BEST OF BOSTON</text>
+  </g>
+  <path d="M56 890 H744" stroke="#CBBEA4" stroke-width="1"/>
+  <g transform="translate(682,838) scale(0.4)" fill="#CBBEA4" opacity="0.9">
+    <path d="M5 33C13 27 30 24 52 24.5c12 .3 21 1.5 26 3.5l1 9c-5 2.5-14 4-27 4C30 41 13 39 5 33Z"/>
+    <path d="M78 26c9 0 15 3 15 6.5S87 39 78 39Z"/>
+    <path d="M90 27c5-6 11-10 18-13M92 30c6-4 12-7 19-9" stroke="#CBBEA4" stroke-width="2.2"
+          fill="none" stroke-linecap="round"/>
+    <path d="M56 27 38 3 27 7l20 23Z"/>
+    <path d="M32 5 8 18" stroke="#CBBEA4" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M8 18 2 25" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <path d="M70 40l-3 12M58 41l-8 10" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

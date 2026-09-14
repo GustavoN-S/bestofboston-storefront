@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Beacon Hill Glass Ornament">
+  <title>Beacon Hill Glass Ornament</title>
+  <rect width="800" height="1000" fill="#F2ECE0"/>
+  <rect x="24.5" y="24.5" width="751" height="951" fill="none" stroke="#CBBEA4" stroke-width="1"/>
+  <g stroke="#CBBEA4" stroke-width="1">
+    <path d="M24.5 64 h34 M24.5 936 h34 M741.5 64 h34 M741.5 936 h34" opacity=".85"/>
+  </g>
+  <g transform="translate(400,506) scale(1.9)">
+    <g>
+    <path d="M0 -168 C-26 -168 -26 -196 0 -196 C26 -196 26 -168 0 -168" fill="none"
+          stroke="#A98A52" stroke-width="6"/>
+    <rect x="-24" y="-170" width="48" height="34" rx="6" fill="#A98A52"/>
+    <rect x="-24" y="-160" width="48" height="6" fill="#F2ECE0" opacity=".35"/>
+    <circle cx="0" cy="14" r="128" fill="#17344F"/>
+    <path d="M40 -104 C96 -80 124 -32 118 24 C112 84 64 130 4 140 C68 122 104 74 104 20
+             C104 -32 80 -78 40 -104 Z" fill="#0E2338" opacity=".5"/>
+    <circle cx="0" cy="14" r="128" fill="none" stroke="#0E2338" stroke-width="3"/>
+    <path d="M-118 -18 C-60 -44 60 -44 118 -18" fill="none" stroke="#A98A52" stroke-width="3" opacity=".85"/>
+    <path d="M-118 52 C-60 78 60 78 118 52" fill="none" stroke="#A98A52" stroke-width="3" opacity=".85"/>
+    <path d="M-75.0 40 v-16.5 h9.0 v-10.5 h10.5 v27.0 M-55.5 40 v-33.0 h13.5 v33.0 M-42.0 40 v-21.0 h10.5 v21.0 M-31.5 40 v-45.0 h4.5 v-13.5 h7.5 v13.5 h4.5 v45.0 M-15.0 40 v-25.5 h12.0 v25.5 M-3.0 40 v-39.0 l7.5 -12.0 l7.5 12.0 v39.0 M12.0 40 v-19.5 h13.5 v19.5 M25.5 40 v-30.0 h9.0 v30.0 M34.5 40 v-13.5 h15.0 v13.5 M49.5 40 v-24.0 h10.5 v24.0 M60.0 40 v-12.0 h15.0 v12.0 Z" fill="#DCD2BD" opacity="1.0"/>
+    <text x="0" y="-42" text-anchor="middle" font-family="'Libre Caslon Display','Libre Caslon Text',Georgia,serif" font-size="22" letter-spacing="4" fill="#DCD2BD">BEACON HILL</text>
+  </g>
+  </g>
+  
+  <g font-family="Archivo, 'Helvetica Neue', Arial, sans-serif" font-size="17" letter-spacing="3.4" fill="#8C8372">
+    <text x="56" y="922">PLATE 08</text>
+    <text x="744" y="922" text-anchor="end">BEST OF BOSTON</text>
+  </g>
+  <path d="M56 890 H744" stroke="#CBBEA4" stroke-width="1"/>
+  <g transform="translate(682,838) scale(0.4)" fill="#CBBEA4" opacity="0.9">
+    <path d="M5 33C13 27 30 24 52 24.5c12 .3 21 1.5 26 3.5l1 9c-5 2.5-14 4-27 4C30 41 13 39 5 33Z"/>
+    <path d="M78 26c9 0 15 3 15 6.5S87 39 78 39Z"/>
+    <path d="M90 27c5-6 11-10 18-13M92 30c6-4 12-7 19-9" stroke="#CBBEA4" stroke-width="2.2"
+          fill="none" stroke-linecap="round"/>
+    <path d="M56 27 38 3 27 7l20 23Z"/>
+    <path d="M32 5 8 18" stroke="#CBBEA4" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M8 18 2 25" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <path d="M70 40l-3 12M58 41l-8 10" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

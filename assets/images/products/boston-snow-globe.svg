@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Boston Skyline Snow Globe">
+  <title>Boston Skyline Snow Globe</title>
+  <rect width="800" height="1000" fill="#F2ECE0"/>
+  <rect x="24.5" y="24.5" width="751" height="951" fill="none" stroke="#CBBEA4" stroke-width="1"/>
+  <g stroke="#CBBEA4" stroke-width="1">
+    <path d="M24.5 64 h34 M24.5 936 h34 M741.5 64 h34 M741.5 936 h34" opacity=".85"/>
+  </g>
+  <g transform="translate(400,466) scale(1.85)">
+    <g>
+    <circle cx="0" cy="-34" r="142" fill="#5B7F92" opacity=".2"/>
+    <circle cx="0" cy="-34" r="142" fill="none" stroke="#3F6072" stroke-width="4" opacity=".8"/>
+    <path d="M-142 -34 C-142 32 -80 88 0 88 C80 88 142 32 142 -34" fill="#5B7F92" opacity=".12"/>
+    <path d="M-90.0 44 v-19.8 h10.8 v-12.6 h12.6 v32.4 M-66.60000000000001 44 v-39.6 h16.2 v39.6 M-50.4 44 v-25.2 h12.6 v25.2 M-37.800000000000004 44 v-54.0 h5.4 v-16.2 h9.0 v16.2 h5.4 v54.0 M-18.0 44 v-30.6 h14.4 v30.6 M-3.6 44 v-46.800000000000004 l9.0 -14.4 l9.0 14.4 v46.800000000000004 M14.4 44 v-23.400000000000002 h16.2 v23.400000000000002 M30.6 44 v-36.0 h10.8 v36.0 M41.4 44 v-16.2 h18.0 v16.2 M59.4 44 v-28.8 h12.6 v28.8 M72.0 44 v-14.4 h18.0 v14.4 Z" fill="#17344F" opacity="1.0"/>
+    <circle cx="-72" cy="-84" r="5" fill="#F8F5EF"/>
+    <circle cx="34" cy="-116" r="4" fill="#F8F5EF"/>
+    <circle cx="86" cy="-58" r="5" fill="#F8F5EF"/>
+    <circle cx="-36" cy="-42" r="4" fill="#F8F5EF"/>
+    <circle cx="62" cy="6" r="4" fill="#F8F5EF"/>
+    <circle cx="-98" cy="6" r="4" fill="#F8F5EF"/>
+    <path d="M-118 62 C-78 92 78 92 118 62 L142 150 C144 164 136 172 120 172
+             L-120 172 C-136 172 -144 164 -142 150 Z" fill="#17344F"/>
+    <path d="M40 80 C76 76 104 68 118 62 L142 150 C144 164 136 172 120 172 L54 172 Z"
+          fill="#0E2338" opacity=".5"/>
+    <path d="M-134 114 H134" stroke="#A98A52" stroke-width="4"/>
+    <text x="0" y="156" text-anchor="middle" font-family="'Libre Caslon Display','Libre Caslon Text',Georgia,serif" font-size="27" letter-spacing="6" fill="#DCD2BD">BOSTON</text>
+  </g>
+  </g>
+  
+  <g font-family="Archivo, 'Helvetica Neue', Arial, sans-serif" font-size="17" letter-spacing="3.4" fill="#8C8372">
+    <text x="56" y="922">PLATE 10</text>
+    <text x="744" y="922" text-anchor="end">BEST OF BOSTON</text>
+  </g>
+  <path d="M56 890 H744" stroke="#CBBEA4" stroke-width="1"/>
+  <g transform="translate(682,838) scale(0.4)" fill="#CBBEA4" opacity="0.9">
+    <path d="M5 33C13 27 30 24 52 24.5c12 .3 21 1.5 26 3.5l1 9c-5 2.5-14 4-27 4C30 41 13 39 5 33Z"/>
+    <path d="M78 26c9 0 15 3 15 6.5S87 39 78 39Z"/>
+    <path d="M90 27c5-6 11-10 18-13M92 30c6-4 12-7 19-9" stroke="#CBBEA4" stroke-width="2.2"
+          fill="none" stroke-linecap="round"/>
+    <path d="M56 27 38 3 27 7l20 23Z"/>
+    <path d="M32 5 8 18" stroke="#CBBEA4" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M8 18 2 25" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <path d="M70 40l-3 12M58 41l-8 10" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

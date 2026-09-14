@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Boston Classic Crewneck">
+  <title>Boston Classic Crewneck</title>
+  <rect width="800" height="1000" fill="#F2ECE0"/>
+  <rect x="24.5" y="24.5" width="751" height="951" fill="none" stroke="#CBBEA4" stroke-width="1"/>
+  <g stroke="#CBBEA4" stroke-width="1">
+    <path d="M24.5 64 h34 M24.5 936 h34 M741.5 64 h34 M741.5 936 h34" opacity=".85"/>
+  </g>
+  <g transform="translate(400,480) scale(1.72)">
+    <defs><clipPath id="cut"><path d="M-40 -142 C-64 -140 -86 -134 -104 -124 L-196 42 C-200 52 -196 61 -186 65 L-150 83 C-140 87 -131 83 -127 73 L-96 -6 L-96 128 C-96 136 -92 140 -84 140 L84 140 C92 140 96 136 96 128 L96 -6 L127 73 C131 83 140 87 150 83 L186 65 C196 61 200 52 196 42 L104 -124 C86 -134 64 -140 40 -142 C30 -118 -30 -118 -40 -142 Z"/></clipPath></defs>
+    <path d="M-40 -142 C-64 -140 -86 -134 -104 -124 L-196 42 C-200 52 -196 61 -186 65 L-150 83 C-140 87 -131 83 -127 73 L-96 -6 L-96 128 C-96 136 -92 140 -84 140 L84 140 C92 140 96 136 96 128 L96 -6 L127 73 C131 83 140 87 150 83 L186 65 C196 61 200 52 196 42 L104 -124 C86 -134 64 -140 40 -142 C30 -118 -30 -118 -40 -142 Z" fill="#17344F"/>
+    <g clip-path="url(#cut)">
+      <rect x="46" y="-230" width="280" height="480" fill="#0E2338" opacity=".4"/>
+      <g fill="#0E2338" opacity=".8"><path d="M-214 26 L-196 84 L-116 112 L-98 50 Z"/><path d="M214 26 L196 84 L116 112 L98 50 Z"/></g>
+      <rect x="-120" y="110" width="240" height="46" fill="#0E2338" opacity=".8"/>
+    </g>
+    <path d="M-41 -143 C-30 -117 30 -117 41 -143 C30 -128 -30 -128 -41 -143 Z" fill="#0E2338"/>
+    <text x="0" y="-8" text-anchor="middle" font-family="'Libre Caslon Display','Libre Caslon Text',Georgia,serif" font-size="33" letter-spacing="3.5" fill="#DCD2BD">BOSTON</text><path d="M-62 4 H62" stroke="#DCD2BD" stroke-width="1.6" opacity=".55"/><text x="0" y="26" text-anchor="middle" font-family="Archivo,'Helvetica Neue',Arial,sans-serif" font-size="10.5" letter-spacing="3" fill="#DCD2BD" opacity=".8">MASSACHUSETTS</text>
+  </g>
+  
+  <g font-family="Archivo, 'Helvetica Neue', Arial, sans-serif" font-size="17" letter-spacing="3.4" fill="#8C8372">
+    <text x="56" y="922">PLATE 01</text>
+    <text x="744" y="922" text-anchor="end">BEST OF BOSTON</text>
+  </g>
+  <path d="M56 890 H744" stroke="#CBBEA4" stroke-width="1"/>
+  <g transform="translate(682,838) scale(0.4)" fill="#CBBEA4" opacity="0.9">
+    <path d="M5 33C13 27 30 24 52 24.5c12 .3 21 1.5 26 3.5l1 9c-5 2.5-14 4-27 4C30 41 13 39 5 33Z"/>
+    <path d="M78 26c9 0 15 3 15 6.5S87 39 78 39Z"/>
+    <path d="M90 27c5-6 11-10 18-13M92 30c6-4 12-7 19-9" stroke="#CBBEA4" stroke-width="2.2"
+          fill="none" stroke-linecap="round"/>
+    <path d="M56 27 38 3 27 7l20 23Z"/>
+    <path d="M32 5 8 18" stroke="#CBBEA4" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M8 18 2 25" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <path d="M70 40l-3 12M58 41l-8 10" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

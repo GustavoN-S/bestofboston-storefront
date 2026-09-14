@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Quincy Market Stoneware Mug">
+  <title>Quincy Market Stoneware Mug</title>
+  <rect width="800" height="1000" fill="#F2ECE0"/>
+  <rect x="24.5" y="24.5" width="751" height="951" fill="none" stroke="#CBBEA4" stroke-width="1"/>
+  <g stroke="#CBBEA4" stroke-width="1">
+    <path d="M24.5 64 h34 M24.5 936 h34 M741.5 64 h34 M741.5 936 h34" opacity=".85"/>
+  </g>
+  <g transform="translate(366,450) scale(1.85)">
+    <g>
+    <path d="M-118 -66 C-118 -76 -110 -82 -98 -82 L98 -82 C110 -82 118 -76 118 -66
+             L110 94 C108 122 92 134 62 134 L-62 134 C-92 134 -108 122 -110 94 Z" fill="#F8F5EF"/>
+    <path d="M40 -82 L98 -82 C110 -82 118 -76 118 -66 L110 94 C108 122 92 134 62 134 L18 134
+             C48 134 62 122 64 94 Z" fill="#E7E1D4"/>
+    <path d="M104 -44 C160 -42 190 -18 190 16 C190 52 162 76 106 80" fill="none"
+          stroke="#E7E1D4" stroke-width="34" stroke-linejoin="round"/>
+    <path d="M104 -44 C160 -42 190 -18 190 16 C190 52 162 76 106 80" fill="none"
+          stroke="#F8F5EF" stroke-width="22"/>
+    <ellipse cx="0" cy="-82" rx="118" ry="26" fill="#E7E1D4"/>
+    <ellipse cx="0" cy="-82" rx="102" ry="19" fill="#DCD2BD"/>
+    <path d="M-96 -6 H96" stroke="#17344F" stroke-width="5" opacity=".85"/>
+    <path d="M-96 62 H96" stroke="#17344F" stroke-width="5" opacity=".85"/>
+    <text x="0" y="34" text-anchor="middle" font-family="'Libre Caslon Display','Libre Caslon Text',Georgia,serif" font-size="33" letter-spacing="6" fill="#17344F">BOSTON</text>
+  </g>
+  </g>
+  
+  <g font-family="Archivo, 'Helvetica Neue', Arial, sans-serif" font-size="17" letter-spacing="3.4" fill="#8C8372">
+    <text x="56" y="922">PLATE 06</text>
+    <text x="744" y="922" text-anchor="end">BEST OF BOSTON</text>
+  </g>
+  <path d="M56 890 H744" stroke="#CBBEA4" stroke-width="1"/>
+  <g transform="translate(682,838) scale(0.4)" fill="#CBBEA4" opacity="0.9">
+    <path d="M5 33C13 27 30 24 52 24.5c12 .3 21 1.5 26 3.5l1 9c-5 2.5-14 4-27 4C30 41 13 39 5 33Z"/>
+    <path d="M78 26c9 0 15 3 15 6.5S87 39 78 39Z"/>
+    <path d="M90 27c5-6 11-10 18-13M92 30c6-4 12-7 19-9" stroke="#CBBEA4" stroke-width="2.2"
+          fill="none" stroke-linecap="round"/>
+    <path d="M56 27 38 3 27 7l20 23Z"/>
+    <path d="M32 5 8 18" stroke="#CBBEA4" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M8 18 2 25" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <path d="M70 40l-3 12M58 41l-8 10" stroke="#CBBEA4" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
