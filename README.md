@@ -46,11 +46,6 @@ sem depender de nenhuma ferramenta além do navegador.
 |---|---|
 | ![Presentes](docs/screenshots/gifts-desktop.jpg) | ![Contato](docs/screenshots/contact-desktop.jpg) |
 
-<p>
-  <img src="docs/screenshots/home-mobile.jpg" alt="Home no celular" width="300">
-  <img src="docs/screenshots/products-mobile.jpg" alt="Catálogo no celular" width="300">
-</p>
-
 ---
 
 ## Como rodar
